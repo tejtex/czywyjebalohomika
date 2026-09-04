@@ -1,14 +1,9 @@
 {
   "status": "up",
-  "last_checked": "2026-09-04T19:49:30Z",
-  "response_time_ms": 693,
+  "last_checked": "2026-09-04T21:51:26Z",
+  "response_time_ms": 1013,
   "uptime_percentage": 96.88,
   "history": [
-    {
-      "timestamp": "2026-08-21T19:49:29Z",
-      "status": "up",
-      "response_time_ms": 3906
-    },
     {
       "timestamp": "2026-08-21T20:00:48Z",
       "status": "up",
@@ -1443,6 +1438,11 @@
       "timestamp": "2026-09-04T19:49:30Z",
       "status": "up",
       "response_time_ms": 693
+    },
+    {
+      "timestamp": "2026-09-04T21:51:26Z",
+      "status": "up",
+      "response_time_ms": 1013
     }
   ]
 }
